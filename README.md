@@ -68,7 +68,7 @@ your_folder/
 └── LCD_in_final.ipynb   # or any other needed notebook depending on what you want to test
 ```
 
-After setting up the folder you can run all the cells in the chosen notebook except the one starting with comment ```# Training cell (Skip if using pre-trained models)```
+After setting up the folder you can run all the cells in the chosen notebook except the cell starting with comment ```# Training cell (Skip if using pre-trained models)```
 
 ## Citations
 
