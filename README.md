@@ -70,6 +70,23 @@ your_folder/
 
 After setting up the folder you can run all the cells in the chosen notebook except the cell starting with comment ```# Training cell (Skip if using pre-trained model)```
 
+## License
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+
+Please cite our work as the following if you use this data in your research:
+
+```python
+@misc{MORLI-DCORPORA,
+  author = {Morad Litime},
+  title = {Darija Dialogues Corpora},
+  year = {2025},
+  url = {https://github.com/iIMoRaD31/Darija-Coherence-assessment-},
+  note = {CC BY 4.0}
+}
+
+```
+
 ## Citations
 
 @article{gaanoun2023darijabert,
