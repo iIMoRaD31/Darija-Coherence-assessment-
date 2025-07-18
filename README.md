@@ -43,13 +43,13 @@ Each model has two notebooks each for a training setting (in-domain and cross-do
 
 In case you wanted to use the trained models you can download the following ".pt" files (you can choose the ones you want to test) and follow the instructions.
 
--"best_lcd_in.pt": For the most performing version of our trained LCD in in-domain settings : 
+-"best_lcd_in.pt": For the most performing version of our trained LCD in in-domain settings : https://drive.google.com/file/d/1n_Mj2eISebf1cGJ8q1gybkLu6GkVL6l8/view?usp=drive_link
 
--"best_lcd_cross.pt": For the most performing version of our trained LCD in cross-domain settings : 
+-"best_lcd_cross.pt": For the most performing version of our trained LCD in cross-domain settings : https://drive.google.com/file/d/17GHZB3vZh8aaYJrLH1fKtKwsO-9NaHQq/view?usp=drive_link
 
--"best_HT_in.pt": For the most performing version of our trained HT in in-domain settings : 
+-"best_HT_in.pt": For the most performing version of our trained HT in in-domain settings : https://drive.google.com/file/d/1uWE1iMY4nu9jp4ePnZPlwNYNn8oBieC7/view?usp=drive_link
 
--"best_HT_cross.pt": For the most performing version of our trained HT in in-domain settings : 
+-"best_HT_cross.pt": For the most performing version of our trained HT in cross-domain settings :  https://drive.google.com/file/d/1FveDTsuA3SIOwu1cTKNd91i0sWcxLTXD/view?usp=drive_link
 
 Make sure you have all the necessary files in a folder.
 
@@ -57,7 +57,7 @@ Here is an example:
 
 ```python
 your_folder/
-├── final_datasets/   # or any other needed dataset depending on what you want to test
+├── final_datasets/   # or any other needed dataset specified in the "Datasets" section depending on what you want to test
 .
 .
 .
